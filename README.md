@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wilcarjose
-- 👀 I’m a Software Developer 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me? @wilcarja
+- :house: Welcome to my home
+- :mechanical_arm: I’m a Software Developer 
+- :v: I'm creating awesome stuff since 10 years
+- :beers: How to reach me? @wilcarja
 
 <!---
 wilcarjose/wilcarjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
